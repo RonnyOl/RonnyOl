@@ -22,7 +22,7 @@
 
 ```javascript
 const ronny = {
-    gender: "male"
+    gender: "male",
     age: 20,
     country: "Argentina",
     likes: ["tech", "games", "web dev", "astronomy", "cars"],
