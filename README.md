@@ -37,7 +37,7 @@ const ronny = {
   
 - 🤔 Open to any job opportunities related to the field! I would like to start my professional journey to acquire new knowledge, meet new people, and be able to help wherever I'm needed!
   
-- 📁 My Resume: <a target="_blank">**[Resume_RonnyOlmos_.pdf](https://drive.google.com/file/d/1NeI4SzLjU0TQGCWt6LWandoNda1f8NKS/view?usp=sharing)**</a>
+- 📁 My Resume: <a target="_blank">**[Resume_RonnyOlmos_.pdf](https://drive.google.com/file/d/1BBQjwo-L_hgYXnkf7tu4-rTAipMPIG7z/view?usp=sharing)**</a>
   
 - 🤓 Always striving to learn new things!
 
