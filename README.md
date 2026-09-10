@@ -15,7 +15,7 @@
 
 
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=700&height=50&lines=Junior+Developer;Computer+Systems+Student" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=700&height=50&lines=Backend+Developer;Computer+Systems+Student" alt="Headline" />
 </div>
 
 <h2>✨ About me ✨</h2>
